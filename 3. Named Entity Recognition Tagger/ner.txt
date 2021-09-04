@@ -1,0 +1,42 @@
+***************************
+
+   Name: Dorin Keshales
+      ID: 313298424
+
+***************************
+
+
+For the HMM Tagger (Viterbi):
+
+
+	Per-token accuracy (without 'O'):  	80.141
+
+	Per-token accuracy (with 'O'): 0.9626778859203536
+
+	F-Score:  0.8119332146792101
+
+	All-types	Prec:0.8178248249957316 Rec:0.8061258835408953
+       		LOC 	Prec:0.8795662100456622 Rec:0.8388677191072401
+       		ORG 	Prec:0.6522292993630573 Rec:0.7636092468307233
+      		MISC 	Prec:0.8231132075471698 Rec:0.7570498915401301
+       		PER 	Prec:0.9051570835803201 Rec:0.8289902280130294
+
+
+
+For the best model of Features-based Tagger I achieved:
+
+
+	Per-token accuracy (without 'O'): 87.185
+
+	Per-token accuracy (with 'O'): 0.9765016092132305
+
+	F-Score:  0.8785346501223938
+
+	All-types 	Prec:0.8812870448772226 Rec:0.875799394143386
+   		ORG 	Prec:0.8041085840058694 Rec:0.8173005219985086
+  		MISC 	Prec:0.8714953271028038 Rec:0.8091106290672451
+   		LOC  	Prec:0.9203980099502488 Rec:0.9063690800217746
+   		PER 	Prec:0.9041022908897176 Rec:0.9212812160694897
+
+
+
